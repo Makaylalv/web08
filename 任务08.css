@@ -2,7 +2,7 @@
 * @Author: jht
 * @Date:   2019-06-12 19:33:09
 * @Last Modified by:   jht
-* @Last Modified time: 2019-06-13 20:50:22
+* @Last Modified time: 2019-06-17 14:08:58
 */
 *{
 	padding: 0;
@@ -132,9 +132,9 @@ select{
 	margin: 0 auto;
 	margin-top: 3px;
 	border-top: 5px solid #3aa747;
-}
-.banner img{
 	width: 100%;
+	height: 670px;
+	background: url('images/banner.png') no-repeat center;
 }
 .nav-bottom{
 	width: 1200px;
